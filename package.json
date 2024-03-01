@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.15",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr",
+  "version": "1.0.0",
+  "main": "qr_gen.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "puba",
+  "license": "ISC",
+  "description": ""
+}
